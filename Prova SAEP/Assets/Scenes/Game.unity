@@ -130,6 +130,7 @@ GameObject:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   - component: {fileID: 28565885}
   - component: {fileID: 28565887}
   - component: {fileID: 28565886}
@@ -995,6 +996,11 @@ GameObject:
   - component: {fileID: 189465995}
   - component: {fileID: 189465994}
 >>>>>>> parent of e5c697a (JogoFuncionando)
+=======
+  - component: {fileID: 189465996}
+  - component: {fileID: 189465995}
+  - component: {fileID: 189465994}
+>>>>>>> parent of e5c697a (JogoFuncionando)
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -1076,6 +1082,7 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -5860,6 +5867,8 @@ Tilemap:
     e31: 0
     e32: 0
     e33: 1
+=======
+>>>>>>> parent of e5c697a (JogoFuncionando)
 =======
 >>>>>>> parent of e5c697a (JogoFuncionando)
 =======
